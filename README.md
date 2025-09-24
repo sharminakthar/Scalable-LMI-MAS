@@ -34,6 +34,7 @@ This designs a state-feedback controller and simulates the closed-loop system.
 
 ```
 scalable_lmi|_lure/
+├── NumericalSimulation.ipynb  # Runnable all-in-one notebook for analysis and synthesis
 ├── run_analysis.py           # Analysis entry point
 ├── run_synthesis.py          # Synthesis entry point
 ├── main/                     # Main execution scripts
