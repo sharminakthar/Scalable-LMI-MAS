@@ -33,7 +33,7 @@ This designs a state-feedback controller and simulates the closed-loop system.
 ## Project Structure
 
 ```
-scalable_lmi|_lure/
+scalable_lmi_lure/
 ├── NumericalSimulation.ipynb  # Runnable all-in-one notebook for analysis and synthesis
 ├── run_analysis.py           # Analysis entry point
 ├── run_synthesis.py          # Synthesis entry point
@@ -49,7 +49,8 @@ scalable_lmi|_lure/
 │       ├── stability_solvers.py  # Analysis LMI solvers
 │       └── synthesis_solvers.py  # Synthesis LMI solver
 ├── requirements.txt          # Python dependencies
-└── README.md                # This file
+├── CITATION.cff              # Citation file
+└── README.md                 # This file
 ```
 
 ## Modules
