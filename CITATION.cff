@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this research code, please cite it as below."
+authors:
+  - family-names: Akthar
+    given-names: Sharmin
+  - family-names: Turner
+    given-names: Matthew C.
+type: software
+title: "A Scalable LMI Approach for Absolute Stability of Weakly Non-Linear Multi-Agent Systems"
+version: 1.0.0
+# identifiers:
+#   - type: doi
+date-released: 2025-09-25
+url: "https://github.com/sharminakthar/Scalable-LMI-MAS"
